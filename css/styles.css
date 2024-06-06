@@ -415,6 +415,10 @@ footer a:hover {
   html {
     font-size: 75%;
   }
+  .hero .content .cta {
+    margin: 4rem 80px 15px 0;
+    margin-top: 10px;
+  }
 }
 
 /* Tablet */
@@ -457,6 +461,12 @@ footer a:hover {
   .navbar .navbar-nav a:hover::after {
     transform: scaleX(0.2);
   }
+
+  .hero .content .cta {
+    margin: 4rem 80px 15px 0;
+    margin-top: 10px;
+  }
+
   .about .row {
     flex-wrap: wrap;
   }
